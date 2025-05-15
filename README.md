@@ -1,6 +1,6 @@
 # 广州奢侈品复刻包包祖国版高仿大牌奢侈品
 
-![客服微信二维码](images/QRcode/wsxc1747305198154_0.jpg)
+<img src="images/QRcode/wsxc1747305198154_0.jpg" alt="客服微信二维码" width="200px" />
 
 **微信客服号: mmbag88**
 
@@ -125,7 +125,7 @@
 - **发货服务**：顺丰包邮，专柜包装
 - **售后保障**：七天无理由退换
 
-![客服微信二维码](images/QRcode/wsxc1747305198154_0.jpg)
+<img src="images/QRcode/wsxc1747305198154_0.jpg" alt="客服微信二维码" width="200px" />
 
 **微信客服号: mmbag88**
 
