@@ -13,22 +13,52 @@
 
 ## 产品分类
 
-### 高仿包包
+### 顶级复刻包包
 
 我们提供各类奢侈品牌包包的高仿版本：
-- 路易威登（LV）经典系列
-- 香奈儿（Chanel）菱格纹CF系列
-- 爱马仕（Hermes）菜篮子系列
-- 古驰（Gucci）GG Marmont马蒙系列
-- 圣罗兰（YSL）NIKI系列
+- 路易威登（LV）
+- 香奈儿（Chanel）
+- 爱马仕（Hermes）
+- 迪奥（Dior）
+- 古驰（Gucci）
+- 圣罗兰（YSL）
+- 赛琳（Celine）
+- 戈雅（Goyard）
+- 蔻驰（Coach）
+- 博柏利（Burberry）
+- 缪缪（MIUMIU）
+- 巴黎世家（Balenciaga）
+- 普拉达（Prada）
+- 罗意威（Loewe）
+- 芬迪（Fendi）
+- 葆蝶家（Bottega Veneta）
+- 珑骧（LONGCHAMP）
+- 三宅一生
+- MLB
+- MCM
+
 
 所有包包均采用原厂优质材料制作，细节处理精益求精，五金配件做工精细，手感与正品一致。
 
 ### 精仿手表
 
 精选多款世界知名品牌手表：
-- 劳力士（Rolex）满天星系列
-- 浪琴（LONGINES）经典系列
+- 劳力士（Rolex）
+- 浪琴（LONGINES）
+- 欧米茄（Omega）
+- 卡地亚（Cartier）
+- 百达翡丽（Patek Philippe）
+- 爱彼（Audemars Piguet）
+- 宝玑（Breguet）
+- 积家（Jaeger-LeCoultre）
+- 万国（IWC）
+- 沛纳海（Panerai）
+- 宝珀（Blancpain）
+- 帝舵（Tudor）
+- 萧邦（Chopard）
+- 真力时（Zenith）
+- 豪雅（TAG Heuer）
+
 
 每款手表均配备进口机芯，表盘、表带细节与正品高度一致。
 
@@ -36,6 +66,24 @@
 
 涵盖多种风格的服装系列：
 - 路易威登（LV）时尚系列
+- 香奈儿（Chanel）经典系列
+- 古驰（Gucci）印花系列
+- 迪奥（Dior）高级成衣系列
+- 普拉达（Prada）轻奢系列
+- 巴黎世家（Balenciaga）潮流系列
+- 范思哲（Versace）印花系列
+- 菲拉格慕（Ferragamo）优雅系列
+- 圣罗兰（YSL）休闲系列
+- 阿玛尼（Armani）商务系列
+- 克洛伊（Chloe）女装系列
+- 芬迪（Fendi）经典系列
+- 巴宝莉（Burberry）风衣系列
+- 杰尼亚（Zegna）西装系列
+- 瓦伦蒂诺（Valentino）高级定制系列
+- 川久保玲（Comme des Garçons）前卫系列
+- 缪缪（Miu Miu）少女系列
+- 蒙克莱（Moncler）羽绒系列
+- 马克·雅可布（Marc Jacobs）时装系列
 
 面料精选，剪裁考究，细节与正品同步。
 
@@ -44,6 +92,24 @@
 各类高端鞋履的优质复刻：
 - 耐克（Nike）联名限定款
 - 路易威登（LV）经典款
+- 阿迪达斯（Adidas）限量合作款
+- 巴黎世家（Balenciaga）老爹鞋
+- 亚历山大·麦昆（Alexander McQueen）小白鞋
+- 克里斯提·鲁布托（Christian Louboutin）红底鞋
+- 普拉达（Prada）休闲鞋
+- 古驰（Gucci）运动鞋
+- 菲拉格慕（Ferragamo）皮鞋
+- 爱马仕（Hermes）凉鞋
+- 香奈儿（Chanel）平底鞋
+- 迪奥（Dior）高跟鞋
+- 圣罗兰（YSL）女鞋
+- 范思哲（Versace）男鞋
+- 博柏利（Burberry）靴子
+- 乔丹（Jordan）篮球鞋
+- 椰子（Yeezy）系列
+- 万斯（VANS）滑板鞋
+- 纪梵希（Givenchy）休闲鞋
+- 托德斯（Tod's）豆豆鞋
 
 鞋款均采用高品质材料，细节精准还原，舒适度与正品相当。
 
