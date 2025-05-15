@@ -137,6 +137,12 @@
 <img src="images/bags/HERMES%20Picotin%20Lock/wsxc1747303747263_3.jpg" alt="爱马仕菜篮子细节" width="800px" style="display: block; margin: 0 auto;" />
 *爱马仕（Hermes）Picotin Lock系列 - 细节图*
 
+<img src="images/bags/Carryall/wsxc1747303473982_0.jpg" alt="LV Carryall手袋" width="800px" style="display: block; margin: 0 auto;" />
+*路易威登（LV）Carryall手袋 - 整体图*
+
+<img src="images/bags/Carryall/wsxc1747303473982_2.jpg" alt="LV Carryall手袋细节" width="800px" style="display: block; margin: 0 auto;" />
+*路易威登（LV）Carryall手袋 - 细节图*
+
 <img src="images/bags/YSL%20NIKI/wsxc1747303671871_0.jpg" alt="圣罗兰NIKI" width="800px" style="display: block; margin: 0 auto;" />
 *圣罗兰（YSL）NIKI系列 - 正面图*
 
